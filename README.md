@@ -13,7 +13,7 @@ A dating app for people who have (almost) given up.
 * [dotenv](https://www.npmjs.com/package/dotenv) - Module to load variables from .env file into process.env.
 * [Express](https://expressjs.com/) - Framework for Node.js.
 * [Express-Handlebars](https://handlebarsjs.com/) - HTML template system.
-- To store and access user data.
+* [Express-Session](https://www.npmjs.com/package/express-sessions) - To store and access user data.
 * [Json Web Token](https://jwt.io/) - For securely sending information between users.
 * [Masonry](https://masonry.desandro.com/) - Our JavaScript grid layout library.
 * [Mocha](https://mochajs.org/) - JavaScript testing framework.
